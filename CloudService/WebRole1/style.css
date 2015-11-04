@@ -1,0 +1,49 @@
+﻿body {
+}
+
+#header{
+    text-align:center;
+    position:relative;
+}
+
+#input {
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    width: 70%;
+    border: 1px solid black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#errors {
+    height: auto;
+    border: 1px solid black;
+}
+
+#titles {
+    float:left; 
+    width: 30%;          
+}
+
+#results {
+    text-align:center;
+    width: 60%;
+    overflow: hidden;
+}
+
+#lastTen {
+    height: auto;
+    border: 1px solid black;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table, td, th {
+	border: 1px solid black;
+}
